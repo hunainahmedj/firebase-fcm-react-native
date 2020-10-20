@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1078997558377",
+    "firebase_url": "https://fir-fcm-notifications.firebaseio.com",
+    "project_id": "fir-fcm-notifications",
+    "storage_bucket": "fir-fcm-notifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078997558377:android:a28c0fcecfbce4c54faef8",
+        "android_client_info": {
+          "package_name": "com.firebase_fcm_notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078997558377-3q7j4vrnlkcsifeagkrkmdje1b5sdm6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6YF_XCAYgB4kxLfiNtPB-YSV5nBBu0Uo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078997558377-3q7j4vrnlkcsifeagkrkmdje1b5sdm6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
